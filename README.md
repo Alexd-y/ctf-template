@@ -5,7 +5,7 @@ Build a fully autonomous CTF platform template for 100–150 participants, based
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/youruser/ctf-template.git
+git clone https://github.com/Alexd-y/ctf-template.git
 cd ctf-template
 chmod +x run.sh
 ./run.sh
@@ -70,7 +70,7 @@ Accessible via `admin-service` REST API (`/admin/users`, `/admin/logs`)
 ## 📦 How to deploy on GitHub
 ```bash
 git init
-git remote add origin https://github.com/youruser/ctf-template.git
+git remote add origin https://github.com/Alexd-y/ctf-template.git
 git add .
 git commit -m "Initial commit"
 git push -u origin main
